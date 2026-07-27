@@ -70,7 +70,7 @@ This indicates strong demand for technology-related products and suggests
 that inventory planning and marketing efforts should continue to support this
 category.
 
-![Sales by Category](../reports/charts/category_sales.png)
+![Sales by Category](reports/charts/category_sales.png)
 
 
 
@@ -83,15 +83,15 @@ This makes the West region the strongest geographic market in the dataset.
 The business should continue monitoring demand in this region and ensure
 sufficient product availability.
 
-![Sales by Region](../reports/charts/region_sales.png)
+![Sales by Region](reports/charts/region_sales.png)
 
 ### Top States
 
-![Top 10 States by Sales](../reports/charts/top_states.png)
+![Top 10 States by Sales](reports/charts/top_states.png)
 
 ### Top Cities
 
-![Top 10 Cities by Sales](../reports/charts/top_cities.png)
+![Top 10 Cities by Sales](reports/charts/top_cities.png)
 
 
 
@@ -108,15 +108,15 @@ to improve customer retention and encourage repeat purchases.
 
 ### Top Customers
 
-![Top 10 Customers by Sales](../reports/charts/top10_customers.png)
+![Top 10 Customers by Sales](reports/charts/top10_customers.png)
 
 ### Customer Segment Performance
 
-![Sales by Customer Segment](../reports/charts/segment_sales.png)
+![Sales by Customer Segment](reports/charts/segment_sales.png)
 
 ### Repeat vs One-Time Customers
 
-![Repeat vs One-Time Customers](../reports/charts/repeat_vs_onetime.png)
+![Repeat vs One-Time Customers](reports/charts/repeat_vs_onetime.png)
 
 
 ## 5. Product Analysis
@@ -131,11 +131,11 @@ indicating limited demand for these products.
 
 ### Top-Selling Products
 
-![Top 10 Products by Sales](../reports/charts/top10_products.png)
+![Top 10 Products by Sales](reports/charts/top10_products.png)
 
 ### Category and Sub-Category Performance
 
-![Sales by Category and Sub-Category](../reports/charts/category_subcategory_sales.png)
+![Sales by Category and Sub-Category](reports/charts/category_subcategory_sales.png)
 
 
 
@@ -153,15 +153,15 @@ the end of the year.
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](../reports/charts/monthly_sales_trend.png)
+![Monthly Sales Trend](reports/charts/monthly_sales_trend.png)
 
 ### Seasonal Sales Pattern
 
-![Seasonal Sales Pattern](../reports/charts/seasonal_pattern.png)
+![Seasonal Sales Pattern](reports/charts/seasonal_pattern.png)
 
 ### Year vs Month Sales Heatmap
 
-![Sales Heatmap](../reports/charts/year_month_heatmap.png)
+![Sales Heatmap](reports/charts/year_month_heatmap.png)
 
 
 ## 7. Shipping Analysis
@@ -179,23 +179,23 @@ monitored for potential logistics inefficiencies.
 
 ### Shipping Mode Usage
 
-![Shipping Mode Usage](../reports/charts/shipmode_counts.png)
+![Shipping Mode Usage](reports/charts/shipmode_counts.png)
 
 ### Delivery Time Distribution
 
-![Delivery Time Distribution](../reports/charts/delivery_time_distribution.png)
+![Delivery Time Distribution](reports/charts/delivery_time_distribution.png)
 
 ### Average Delivery Time by Shipping Mode
 
-![Delivery Time by Shipping Mode](../reports/charts/delivery_by_shipmode.png)
+![Delivery Time by Shipping Mode](reports/charts/delivery_by_shipmode.png)
 
 ### Average Delivery Time by Region
 
-![Delivery Time by Region](../reports/charts/delivery_by_region.png)
+![Delivery Time by Region](reports/charts/delivery_by_region.png)
 
 ### Region and Shipping Mode Analysis
 
-![Region Shipping Mode Heatmap](../reports/charts/region_shipmode_heatmap.png)
+![Region Shipping Mode Heatmap](reports/charts/region_shipmode_heatmap.png)
 
 
 
