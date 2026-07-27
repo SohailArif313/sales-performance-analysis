@@ -58,7 +58,7 @@ years, growing by **30.64%** in 2017 and **20.30%** in 2018.
 ### Sales Trend
 
 
-![Yearly Sales Trend](reports\charts\yearly_sales_trend.png)
+![Yearly Sales Trend](reports/charts/yearly_sales_trend.png)
 
 
 ## 2. Sales by Category
