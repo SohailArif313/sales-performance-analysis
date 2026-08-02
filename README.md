@@ -93,7 +93,8 @@ sales-performance-analysis/
 │   ├── charts/
 │   ├── tables/
 │   │   └── summary_metrics.csv
-│   └── sales-performance-analysis-report.md
+│   ├── sales-performance-analysis-report.md
+│   └── sales-performance-analysis-report.pdf
 │
 └── README.md
 ```
