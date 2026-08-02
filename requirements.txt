@@ -1,0 +1,6 @@
+Python 3.12
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
